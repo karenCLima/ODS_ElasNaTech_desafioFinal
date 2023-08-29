@@ -1,2 +1,2 @@
-# ODS_ElasNaTech_upgrade
-Projeto Elas Na Tech: Upgrade da página ODS incorporando novos conceitos de CSS e HTML
+# Projeto ElasNaTech: ODS-desafio final
+Projeto Elas Na Tech: Uma página ODS incorporando conceitos de responsividade.
